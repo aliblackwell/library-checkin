@@ -1,0 +1,19 @@
+{
+  "name": "library-checkin",
+  "version": "1.0.0",
+  "description": "A checkin app for library users",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aliblackwell/library-checkin.git"
+  },
+  "author": "Ali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aliblackwell/library-checkin/issues"
+  },
+  "homepage": "https://github.com/aliblackwell/library-checkin#readme"
+}
