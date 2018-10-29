@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/aliblackwell/library-checkin/issues"
   },
-  "homepage": "https://github.com/aliblackwell/library-checkin#readme"
+  "homepage": "https://github.com/aliblackwell/library-checkin#readme",
+  "dependencies": {
+    "mocha": "^5.2.0"
+  }
 }
